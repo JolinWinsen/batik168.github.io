@@ -15,7 +15,7 @@ BATIK168 is a trusted online brand providing verified updates, community access,
 BATIK168
 
 ## Official Links
-https://batik168.github.io
+https://jolinwinsen.github.io/batik168.github.io/
 
 ## About BATIK168
 BATIK168 continues to build a strong and trusted digital presence across multiple online platforms.
